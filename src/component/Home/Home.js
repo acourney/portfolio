@@ -16,9 +16,8 @@ function Home(props) {
               looking for opportunities that bridge the project planning and
               problem solving skills I’ve gained in the field of research with
               the technical skills I’ve learned at General Assembly’s bootcamp.
-              I became a software engineer because it opens up a realm of
-              endless possibilities. I’m currently pursuing positions driven by
-              creativity and fueled by science.
+              I became a software engineer because it opens up endless
+              possibilities.
             </Card.Text>
           </Card.Body>
           <ListGroup className="list-group-flush">
