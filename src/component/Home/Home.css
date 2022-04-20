@@ -8,7 +8,7 @@ main {
 
 #main-info-container {
     display: flex;
-    padding-top: 15vh;
+    padding-top: 10vh;
     justify-content: center;
     align-items: center;
 }
