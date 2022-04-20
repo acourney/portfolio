@@ -3,5 +3,12 @@ main {
   width: 100vw;
 
   background-image: url('https://imgur.com/X6eaXeQ.jpg');
-  background-size:     cover; 
+  background-size: cover; 
+}
+
+#main-info-container {
+    display: flex;
+    padding-top: 15vh;
+    justify-content: center;
+    align-items: center;
 }

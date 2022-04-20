@@ -1,3 +1,35 @@
 #main-nav-bar {
     height: 10vh;
+
+    background-color: #2a2a2a;
+    -webkit-box-shadow: 0px 10px 9px -5px rgba(65, 66, 71, 0.5); 
+    box-shadow: 0px 10px 9px -5px rgba(65, 66, 71, 0.5);
+}
+
+#navbar-brand {
+    color: whitesmoke;
+}
+
+#navbar-toggle {
+    color: rgba(245, 245, 245, 0.417);
+    border: none;
+}
+
+#offcanvasNavbar {
+    background-color: #2a2a2a;
+}
+
+#dropdown-divider {
+    color: whitesmoke;
+}
+
+a.offscreen-nav-link.nav-link {
+    text-decoration: none;
+    color: rgb(142, 164, 186);
+
+    font-weight: bolder;
+}
+
+h5 #offcanvasNavbarLabel {
+    color: whitesmoke;
 }
