@@ -16,8 +16,9 @@ function Home(props) {
               looking for opportunities that bridge the project planning and
               problem solving skills I’ve gained in the field of research with
               the technical skills I’ve learned at General Assembly’s bootcamp.
-              I became a software engineer because it opens up endless
-              possibilities.
+              <br />
+              <br />
+              Skills: Javacript, CSS/HTML, React, Python, Django, PostgreSQL
             </Card.Text>
           </Card.Body>
           <ListGroup className="list-group-flush">
