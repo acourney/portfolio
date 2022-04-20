@@ -17,7 +17,7 @@ function Navigation(props) {
     <div>
       <Navbar id="main-nav-bar" expand={false}>
         <Container fluid>
-          <Navbar.Brand id="navbar-brand" href="#">
+          <Navbar.Brand id="navbar-brand" href="/">
             Annie Courney
           </Navbar.Brand>
 
