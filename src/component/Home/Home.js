@@ -12,14 +12,14 @@ function Home(props) {
           <Card.Body>
             <Card.Title>Annie Courney</Card.Title>
             <Card.Text>
-              As a full-stack software with experience in biology, I am looking
-              for career opportunities where I can leverage my unique
-              background. I made the switch to software engineering because it
-              is a field of endless possibilities limited only by creativity. I
-              am looking for a fast-paced challenging role that can bridge the
-              project planning and problem solving skills I’ve gained in the
-              field of research with the technical skills I have learned at
-              General Assembly’s bootcamp.
+              I am a full-stack software engineer with experience in biology
+              looking for career opportunities where I can leverage my
+              multi-disciplinary background. Equipped with a foundation in
+              research and essential technical skills acquired at General
+              Assembly’s bootcamp, I am searching for a fast-paced challenging
+              role that can bridge the project planning and dynamic problem
+              solving skills I’ve gained in the field of research with the
+              technical skills I have learned at General Assembly’s bootcamp.
               <br />
               <br />
               Skills: Javacript, CSS/HTML, React, Python, Django, PostgreSQL
