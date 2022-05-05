@@ -25,14 +25,14 @@ function Home(props) {
               Skills: Javacript, CSS/HTML, React, Python, Django, PostgreSQL
             </Card.Text>
           </Card.Body>
-          <ListGroup className="list-group-flush">
+          <ListGroup className="list-group-flush" id="projects-link-container">
             <ListGroupItem>
               <Nav.Link className="offscreen-nav-link" href="/projects">
                 read about my projects
               </Nav.Link>
             </ListGroupItem>
           </ListGroup>
-          <Card.Body>
+          <Card.Body id="github-linkedin-link-container">
             <Card.Link href="https://github.com/acourney">
               Github
               <svg
